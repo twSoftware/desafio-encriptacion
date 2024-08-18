@@ -1,3 +1,5 @@
 <h1>Sistema de encriptación</h1>
 
 -Estado del proyecto: En construcción. 
+Para ejecutar el sistema debes poner  
+```npm install react```
